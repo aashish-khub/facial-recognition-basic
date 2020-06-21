@@ -44,7 +44,7 @@ images = {
         "Mike Pence":          ["Pence.jpg"],
         "Kamala Harris":       ["Harris.jpg"],
         "Nancy Pelosi":        ["Pelosi.jpg"],
-        "Mitch McConnell":     ["CocaineMitch.jpg"]
+        "Mitch McConnell":     ["McConnell.jpg"]
         }
 #The dictionary maps people's names to the set of their known images' filenames
 ######################################################################
